@@ -7,7 +7,7 @@ Files the Vanta client downloads on first run into `%APPDATA%\Vanta Client`, kee
 - `CustomSounds/Enable.wav`, `CustomSounds/Disable.wav`: Custom toggle sounds
 - `Assets/icons-1.bin`: interface icons (Lucide, see `LUCIDE_LICENSE`)
 - `Assets/logo-1.bin`: the logo as meshes
-- `Assets/shaders-1.bin`: compiled outline shaders
+- `Assets/shaders-2.bin`: compiled outline shaders
 
 A replaced image or sound is kept: the client only downloads those when missing. The `.bin`
 files are pinned by SHA-256 in the client. Never change one in place; add the next number.
